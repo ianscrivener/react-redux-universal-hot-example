@@ -89,7 +89,7 @@
       }
     }
   },
-  "dependencies": {
+  "devDependencies": {
     "babel-core": "^6.5.2",
     "babel-loader": "^6.2.1",
     "babel-plugin-add-module-exports": "^0.1.2",
@@ -138,8 +138,6 @@
     "url-loader": "^0.5.7",
     "warning": "^2.1.0",
     "webpack-isomorphic-tools": "^2.2.18"
-  },
-  "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
     "babel-eslint": "^5.0.0-beta6",
     "babel-plugin-react-transform": "^2.0.0",
@@ -190,6 +188,6 @@
   },
   "engines": {
     "node": "6.3.1",
-    "npm":"3.10.5"
+    "npm":"3.10.3"
   }
 }
