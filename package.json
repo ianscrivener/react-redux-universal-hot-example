@@ -28,7 +28,7 @@
     "start-prod": "better-npm-run start-prod",
     "start-prod-api": "better-npm-run start-prod-api",
     "build": "better-npm-run build",
-    "postinstall": "npm install -g better-npm-run webpack karma eslint ocncurrent && npm run build",
+    "postinstall": "npm install -g better-npm-run webpack karma eslint concurrent && npm run build",
     "lint": "eslint -c .eslintrc src api",
     "start-dev": "better-npm-run start-dev",
     "start-dev-api": "better-npm-run start-dev-api",
